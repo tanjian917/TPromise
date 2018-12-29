@@ -1,0 +1,2 @@
+# TPromise
+JavaScript Promise类
